@@ -175,6 +175,32 @@
     width: 250px;
     height: 270px;
     background-size: cover;
-    
+}
+.istra-heading-desh{
+    margin-top: 30px;
 }
 /* instra section end */
+
+
+/*  latest section start  */
+.latest-container{
+    background-image: url('./Flower Asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 800px;
+    height: 250px;
+    display: flex;
+    /* justify-content:space-around; */
+    align-items: center;
+    margin: 50px ;
+    margin-left: 100px;
+}
+.text-box{
+    width: 300px;
+}
+/* .box-container{
+    display: flex;
+    align-items: center;
+} */
+
+/*  latest section end  */
