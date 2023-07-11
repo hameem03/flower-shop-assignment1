@@ -8,19 +8,22 @@
 .baneer-main-image{
     width: 450px;
     height: 600px;
+    margin-top: 60px;
+    
 }
 .banner-container{
     height: 100vh;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #E554731A;
+    background-color: #e4cfd4;
 }
 .banner-title{
     font-family: 'Cinzel', serif;
-    font-size: 50px;
+    font-size: 40px;
     font-style: normal;
     font-weight: 800;
+    color: #5a101a;
 }
 .banner-desh{
     text-align: left;
@@ -29,7 +32,28 @@
 }
 .banner-description{
     /* margin: 50px; */
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    color: rgba(39, 39, 39, 0.60);
+
+    
 }
+.btn-primary{
+    display: inline-flex;
+    padding: 10px 25px;
+    align-items: flex-start;
+    gap: 10px;
+    border: none;
+    background-color: #E55473;
+    font-size: 15px;
+    font-weight:bold;
+    margin-top: 10px;
+    color: white;
+    border-radius: 5px;  
+}
+
+
 
 
 /* banner-section-end */
