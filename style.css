@@ -57,3 +57,20 @@
 
 
 /* banner-section-end */
+
+
+/* feature section start */
+.feature-image{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.feature-flower{
+    /* float: left; */
+    width: 150px;
+    height: 200px;
+    background-size: cover;
+}
+
+
+/* feature section end */
