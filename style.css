@@ -109,4 +109,45 @@
     font-size: 10.2px;
     font-weight: bolder;
 }
+.feature-desh{
+    font-size: 15px;
+    font-weight: 500;
+    color: rgba(39, 39, 39, 0.60);
+}
+
 /* feature section end */
+
+/* delivery section start */
+
+.hot-deal{
+    width: auto;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #E554730D;
+}
+.deal-info{
+    width: 50%;
+    font-size: 13px;
+    font-weight: 800;
+    text-align: center;
+}
+.deal-header{
+    font-weight: 1200;
+    font-family: 'Notable', sans-serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+    /* margin-left: 30px; */
+}
+.deal-paragraph{
+    font-size: smaller;
+    /* margin-left: 30px; */
+    color: rgba(39, 39, 39, 0.60);
+    margin-bottom: 20px;
+}
+.image-deal{
+    width: 200px;
+    margin-right: 60px;
+}
+/* delivery section end */
