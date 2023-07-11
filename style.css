@@ -64,13 +64,49 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    /* margin-left: 100px; */
+    margin: 50px 100px 10px 100px;
+    /* padding: 20px; */
+    /* background-color: rgb(231, 235, 5); */
+    
 }
 .feature-flower{
-    /* float: left; */
     width: 150px;
     height: 200px;
-    background-size: cover;
+    background-size:cover;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 50px;
+    gap: 5px;
+
 }
-
-
+.feature-description{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    /* background-color: #5a101a; */
+    margin-top: 100px;
+}
+.feature1{
+    background-color: #F2DEE7;
+}
+.feature2{
+    background-color: black;
+}
+.feature3{
+    background-color: #E3EBDB;
+}
+.feature-image-caption{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    /* background-color: yellow; */
+    text-align: center;
+    margin: 10px 100px 10px 100px;
+    gap: 50px;
+    text-decoration: underline;
+    font-size: 10.2px;
+    font-weight: bolder;
+}
 /* feature section end */
