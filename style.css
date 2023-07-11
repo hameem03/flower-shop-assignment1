@@ -235,29 +235,43 @@
     padding-top: 30px;
     
 }
+.name-section{
+    text-align: center;
+}
 .chack-box{
     width: 200px;
     height: 200px;
-    border: 0;
+    
 }
 .box1{
     width: 300px ; 
     height: 30px;
+    border: 0;
+    margin: 2px;
 }
 .box2{
     width: 300px ; 
     height: 30px;
+    border: 0;
+    margin: 2px;
 }
 .box3{
     width: 300px ; 
     height: 30px;
+    border: 0;
+    margin: 2px;
 }
 .box4{
     width: 300px ; 
     height: 30px;
+    border: 0;
+    margin: 2px;
 }
 .name-section{
     align-items: center;
+}
+.text-area{
+    border: 0;
 }
 /* pre order section end */
 
