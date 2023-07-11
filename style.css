@@ -218,28 +218,38 @@
 
 /*  latest section end  */
 /* pre order section start */
+.pre-order{
+    text-align: center;
+    padding-top: 30px;
+}
 .pre-order-container{
     width: auto;
     height: 300px;
-    background-color: #5a101a;
+    background-color: #e4cfd4;
+    
+}
+.pre-another-container{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding-top: 30px;
+    
 }
 .chack-box{
     width: 200px;
     height: 200px;
+    border: 0;
 }
 .box1{
     width: 300px ; 
     height: 30px;
 }
 .box2{
-    width: 310px ; 
+    width: 300px ; 
     height: 30px;
 }
 .box3{
-    width: 320px ; 
+    width: 300px ; 
     height: 30px;
 }
 .box4{
